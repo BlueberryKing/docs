@@ -301,9 +301,7 @@ On this page, we can input our zero fuel weight (ZFW) and zero fuel weight cente
 !!! warning "Important Info"
     Fuel and payload have to be set in the simulator before ZFW/CG for the end result to be correct. (Unless you want to use the default fuel and weight).
 
-    **NOTE:** It is advisable to **not** use the MSFS Fuel Panel to load fuel or weights. 
-
-    To learn how see [Load Fuel and Payload](#load-fuel-and-payload) in the simBrief integration below.
+    Please see our [Fuel and Weights Guide](../../fbw-a32nx/feature-guides/fuel-weights/index.md) for more information.
 
 The A32NX can auto populate this information.
 
@@ -317,11 +315,7 @@ Now we can add our fuel on board (FOB). The amount we input in this field can be
 * The amount indicated in the OFP.
 
 !!! info "Loading Fuel"
-
-    We can load fuel two ways:
-
-    * Via the AOC - [Learn How](#load-fuel-and-payload)
-    * Via the EFB (not covered in this guide)
+    Please see our 
 
 ^^ECAM FOB^^
 
